@@ -1,2 +1,2 @@
-Repository for my FormulasV extension
+Repository for my FormulasV extension.
 Now Open Source ;)
